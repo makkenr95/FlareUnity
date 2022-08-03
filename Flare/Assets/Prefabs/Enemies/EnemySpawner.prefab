@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &8265322813514227424
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8265322813514227438}
+  - component: {fileID: 8265322813514227425}
+  m_Layer: 0
+  m_Name: EnemySpawner
+  m_TagString: EnemySpawner
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8265322813514227438
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8265322813514227424}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 1.3657447, y: 0.902763, z: 31.027454}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &8265322813514227425
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8265322813514227424}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1a93a822b55b8f34e973dc3d594cd0c7, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  miniBoss: {fileID: 6142879448348309184, guid: 833f96f7442e3f64c94ac141e20aa8f0, type: 3}
+  lightEnemy: {fileID: 6762790817814671234, guid: ba177771cdbcb4f4bafa3eaa36444295, type: 3}
+  lightPatternEnemy: {fileID: 0}
+  fastEnemy: {fileID: 6617535120150995490, guid: a660561c1fe1d7f4a9f1698483e21261, type: 3}
+  heavyEnemy: {fileID: 8699061830226210413, guid: 2d8de0a4df93a34408ecae76041ee975, type: 3}
+  laserEnemy: {fileID: 4160544345677135963, guid: 165671f9835cbcc4b9909f628b669ba4, type: 3}
+  homingEnemy: {fileID: 0}
+  numEnemyTypes: 0
+  maxSpawnStrength: 1
+  spawnDirection: {x: 0, y: 0}
+  spawnDistance: 12
+  spawnTimer: 0
+  minSpawnTime: 2
+  maxSpawnTime: 10
+  spawnTime: 1
+  miniBossSpawnIntervall: 20
+  miniBossSpawnTimer: 170
+  difficulty: 0.9
+  difficultyMultiplier: 0.1
+  spawnValue: 1
+  maxTotalEnemyAmount: 100
+  spawnerActive: 0
+  enemies: []

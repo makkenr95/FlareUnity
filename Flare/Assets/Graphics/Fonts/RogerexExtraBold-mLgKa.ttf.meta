@@ -1,0 +1,26 @@
+fileFormatVersion: 2
+guid: ab70de2acc63d5743880eb99d58c850b
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Rogerex
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: f57cc3d756c1ebe4c927873b3f57920b, type: 3}
+  - {fileID: 12800000, guid: 485fec825b9e26b4c82e51436119590f, type: 3}
+  - {fileID: 12800000, guid: b9fb9bd2f4e2b484c967effc99a13c28, type: 3}
+  - {fileID: 12800000, guid: 7117525876c64194593f912bfb37cb6c, type: 3}
+  - {fileID: 12800000, guid: f827e116f332f30458e7656f6e018208, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

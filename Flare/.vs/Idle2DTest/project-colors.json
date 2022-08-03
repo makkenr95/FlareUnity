@@ -1,0 +1,51 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "9c3b3ceb-0d7c-36fe-e793-651ef7cde4f6": {
+      "ProjectGuid": "9c3b3ceb-0d7c-36fe-e793-651ef7cde4f6",
+      "DisplayName": "Assembly-CSharp",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "fb99e7dd-b158-7ccd-da1a-86c2d118d560": {
+      "ProjectGuid": "fb99e7dd-b158-7ccd-da1a-86c2d118d560",
+      "DisplayName": "Unity.CollabProxy.Editor",
+      "ColorIndex": 1
+    },
+    "5075d8b8-ce7e-81aa-dce4-1055f1ea2b88": {
+      "ProjectGuid": "5075d8b8-ce7e-81aa-dce4-1055f1ea2b88",
+      "DisplayName": "Unity.VisualStudio.Editor",
+      "ColorIndex": 2
+    },
+    "8f2769ad-58a2-9f34-292a-3acbcfe2f07e": {
+      "ProjectGuid": "8f2769ad-58a2-9f34-292a-3acbcfe2f07e",
+      "DisplayName": "Cinemachine",
+      "ColorIndex": 3
+    },
+    "7ff0beb0-21e8-678c-f903-1a61812628a0": {
+      "ProjectGuid": "7ff0beb0-21e8-678c-f903-1a61812628a0",
+      "DisplayName": "Unity.Timeline.Editor",
+      "ColorIndex": 4
+    },
+    "e83fc6fc-65b3-c274-1a04-1d701ceacd43": {
+      "ProjectGuid": "e83fc6fc-65b3-c274-1a04-1d701ceacd43",
+      "DisplayName": "Unity.2D.IK.Runtime",
+      "ColorIndex": 5
+    },
+    "2293456a-6295-4231-701a-90b6aafc2875": {
+      "ProjectGuid": "2293456a-6295-4231-701a-90b6aafc2875",
+      "DisplayName": "UnityEngine.UI",
+      "ColorIndex": 6
+    },
+    "1b8cbdcd-77f4-bd69-efb5-f970e3501874": {
+      "ProjectGuid": "1b8cbdcd-77f4-bd69-efb5-f970e3501874",
+      "DisplayName": "FMODUnity",
+      "ColorIndex": 7
+    }
+  },
+  "NextColorIndex": 8
+}

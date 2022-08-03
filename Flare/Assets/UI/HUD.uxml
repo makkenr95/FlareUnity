@@ -1,0 +1,5 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" editor-extension-mode="False">
+    <ui:VisualElement name="MainWindow" style="height: 100%; width: 100%; bottom: 0;">
+        <ui:VisualElement name="XPBar" style="justify-content: flex-start; bottom: 0; height: 25px; position: absolute; flex-grow: 0; flex-direction: column; top: auto; right: 0; left: 0;" />
+    </ui:VisualElement>
+</ui:UXML>
