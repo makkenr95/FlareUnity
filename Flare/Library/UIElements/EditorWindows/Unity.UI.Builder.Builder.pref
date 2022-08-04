@@ -52,12 +52,6 @@ MonoBehaviour:
   - __PanelContainer__rootVisualContainer__main-view-split-view__middle-right-split-view__unity-ui-builder-inspector__builder-inspector-local-styles-foldout__builder-inspector-style-section-foldout-border__builder-inspector-style-section-foldout-border-width__Unity.UI.Builder.FoldoutNumberField
   - __PanelContainer__rootVisualContainer__main-view-split-view__middle-right-split-view__unity-ui-builder-inspector__builder-inspector-local-styles-foldout__builder-inspector-style-section-foldout-border__builder-inspector-style-section-foldout-border-radius__Unity.UI.Builder.FoldoutNumberField
   - __PanelContainer__rootVisualContainer__main-view-split-view__middle-right-split-view__unity-ui-builder-inspector__builder-inspector-local-styles-foldout__builder-inspector-style-section-foldout-cursor__Unity.UI.Builder.PersistedFoldout
-  - __PanelContainer__rootVisualContainer__main-view-split-view__middle-right-split-view__unity-ui-builder-inspector__builder-inspector-attributes-inherited-styles-foldout__builder-inspector-matching-selectors-container-foldout__builder-inspector-rule-foldout__0__Unity.UI.Builder.PersistedFoldout
-  - __PanelContainer__rootVisualContainer__main-view-split-view__middle-right-split-view__unity-ui-builder-inspector__builder-inspector-attributes-inherited-styles-foldout__builder-inspector-matching-selectors-container-foldout__builder-inspector-rule-foldout__1__Unity.UI.Builder.PersistedFoldout
-  - __PanelContainer__rootVisualContainer__main-view-split-view__middle-right-split-view__unity-ui-builder-inspector__builder-inspector-attributes-inherited-styles-foldout__builder-inspector-matching-selectors-container-foldout__builder-inspector-rule-foldout__2__Unity.UI.Builder.PersistedFoldout
-  - __PanelContainer__rootVisualContainer__main-view-split-view__middle-right-split-view__unity-ui-builder-inspector__builder-inspector-attributes-inherited-styles-foldout__builder-inspector-matching-selectors-container-foldout__builder-inspector-rule-foldout__3__Unity.UI.Builder.PersistedFoldout
-  - __PanelContainer__rootVisualContainer__main-view-split-view__middle-right-split-view__unity-ui-builder-inspector__builder-inspector-attributes-inherited-styles-foldout__builder-inspector-matching-selectors-container-foldout__builder-inspector-rule-foldout__4__Unity.UI.Builder.PersistedFoldout
-  - __PanelContainer__rootVisualContainer__main-view-split-view__middle-right-split-view__unity-ui-builder-inspector__builder-inspector-attributes-inherited-styles-foldout__builder-inspector-matching-selectors-container-foldout__builder-inspector-rule-foldout__5__Unity.UI.Builder.PersistedFoldout
   m_Values:
   - '{"m_FixedPaneDimension":300.0}'
   - '{"m_FixedPaneDimension":450.0}'
@@ -74,7 +68,7 @@ MonoBehaviour:
   - '{"m_ShowPackageTemplates":false,"m_ViewMode":0,"m_ActiveTab":0}'
   - '{"m_SelectedItemId":-1150758546}'
   - '{"m_Value":0.0,"m_LowValue":0.0,"m_HighValue":2147483648.0}'
-  - '{"m_Value":19.0,"m_LowValue":0.0,"m_HighValue":19.0}'
+  - '{"m_Value":0.0,"m_LowValue":0.0,"m_HighValue":19.0}'
   - '{"m_FixedPaneDimension":300.0}'
   - '{"m_FixedPaneDimension":20.0}'
   - '{"m_FixedPaneDimension":200.0}'
@@ -97,10 +91,4 @@ MonoBehaviour:
   - '{"m_Value":true,"fieldValues":[{"r":0.0,"g":0.0,"b":0.0,"a":255.0},{"r":0.0,"g":0.0,"b":0.0,"a":255.0},{"r":0.0,"g":0.0,"b":0.0,"a":255.0},{"r":0.0,"g":0.0,"b":0.0,"a":255.0}]}'
   - '{"m_Value":true,"fieldValues":[]}'
   - '{"m_Value":true,"fieldValues":[]}'
-  - '{"m_Value":false}'
-  - '{"m_Value":false}'
-  - '{"m_Value":false}'
-  - '{"m_Value":false}'
-  - '{"m_Value":false}'
-  - '{"m_Value":false}'
   - '{"m_Value":false}'
