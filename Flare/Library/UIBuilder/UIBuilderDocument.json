@@ -15,27 +15,27 @@
                 "m_VisualTreeAssetBackup": {
                     "instanceID": 0
                 },
-                "m_OpenendVisualTreeAssetOldPath": "Assets/UI/HUD.uxml",
+                "m_OpenendVisualTreeAssetOldPath": "Packages/com.unity.ui.builder/Tests/Editor/TestFiles/ScalableImageSelectorTestDocument.uxml",
                 "m_VisualTreeAsset": {
                     "fileID": 9197481963319205126,
-                    "guid": "371f29bb76bc56245a78002ed730f170",
+                    "guid": "f8f24f000252f4f27a8a80c8df02e866",
                     "type": 3
                 },
                 "m_ActiveStyleSheet": {
                     "instanceID": 0
                 },
                 "m_Settings": {
-                    "UxmlGuid": "371f29bb76bc56245a78002ed730f170",
-                    "UxmlPath": "Assets/UI/HUD.uxml",
+                    "UxmlGuid": "f8f24f000252f4f27a8a80c8df02e866",
+                    "UxmlPath": "Packages/com.unity.ui.builder/Tests/Editor/TestFiles/ScalableImageSelectorTestDocument.uxml",
                     "CanvasX": 0,
                     "CanvasY": 0,
-                    "CanvasWidth": 1357,
-                    "CanvasHeight": 816,
+                    "CanvasWidth": 350,
+                    "CanvasHeight": 450,
                     "MatchGameView": false,
-                    "ZoomScale": 0.75,
+                    "ZoomScale": 1.0,
                     "PanOffset": {
-                        "x": 198.0,
-                        "y": 237.75
+                        "x": 20.0,
+                        "y": 20.0
                     },
                     "ColorModeBackgroundOpacity": 1.0,
                     "ImageModeCanvasBackgroundOpacity": 1.0,
