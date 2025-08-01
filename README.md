@@ -20,3 +20,5 @@ Made a spawning system based on enemies spawning having a cost and every spawn i
 Death screen with kill counter. Planned on adding upgrade and level up tracker to death screen but never did. Game restarts from start menu when continuing from death screen.
 
 Very fun project that i wished i had made time to turn into something more complete and polished.
+
+P.S. Some smaller bugs included.
