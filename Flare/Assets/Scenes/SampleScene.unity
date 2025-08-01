@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 0}
-  m_IndirectSpecularColor: {r: 0.003090864, g: 0.0075629805, b: 0.013605252, a: 1}
+  m_IndirectSpecularColor: {r: 0.0049833036, g: 0.011948778, b: 0.021363568, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -404,11 +404,6 @@ MonoBehaviour:
   OverrideAttenuation: 0
   OverrideMinDistance: -1
   OverrideMaxDistance: -1
-  hasTriggered: 0
-  isQuitting: 0
-  isOneshot: 0
-  cachedParams: []
-  <IsActive>k__BackingField: 0
 --- !u!4 &1091947805
 Transform:
   m_ObjectHideFlags: 0
@@ -789,7 +784,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1020879354, guid: ce82277363168754d81f0ca42cb3ab08, type: 3}
       propertyPath: m_Enabled
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 1291430989, guid: ce82277363168754d81f0ca42cb3ab08, type: 3}
       propertyPath: m_Follow
@@ -1294,8 +1289,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 86c6556701af9e04380698b89f691b6e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  rigidBody: {fileID: 0}
-  rigidBody2D: {fileID: 0}
   attenuationObject: {fileID: 8894426644376196250}
   ListenerNumber: -1
 --- !u!1001 &8939915628937083473
@@ -1305,10 +1298,22 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 54343263, guid: cf94505a96c92674d97d8059a2adc747, type: 3}
+      propertyPath: laserActive
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 54343263, guid: cf94505a96c92674d97d8059a2adc747, type: 3}
+      propertyPath: hasUnstablePlasma
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 152560198, guid: cf94505a96c92674d97d8059a2adc747, type: 3}
       propertyPath: myExpProgress
       value: 
       objectReference: {fileID: 2121769570}
+    - target: {fileID: 249617787, guid: cf94505a96c92674d97d8059a2adc747, type: 3}
+      propertyPath: enemyType
+      value: 4
+      objectReference: {fileID: 0}
     - target: {fileID: 249617787, guid: cf94505a96c92674d97d8059a2adc747, type: 3}
       propertyPath: healthBar
       value: 
