@@ -1,3 +1,5 @@
+# FLARE
+
 Flare is a 2D space survival shooter game i programmed and designed. 
 
 You play as a new born star absorbing other stars cores to evolve and grow. But they will not let you win without a fight.
