@@ -22,3 +22,14 @@ Death screen with kill counter. Planned on adding upgrade and level up tracker t
 Very fun project that i wished i had made time to turn into something more complete and polished.
 
 P.S. Some smaller bugs included.
+
+![Flare Image](FlareImage.jpg)
+![Flare Image](FlareImage(1).jpg)
+![Flare Image](FlareImage(2).jpg)
+![Flare Image](FlareImage(3).jpg)
+![Flare Image](FlareImage(4).jpg)
+![Flare Image](FlareImage(5).jpg)
+![Flare Image](FlareImage(6).jpg)
+![Flare Image](FlareImage(7).jpg)
+![Flare Image](FlareImage(8).jpg)
+![Flare Image](FlareImage(9).jpg)
