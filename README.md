@@ -13,8 +13,10 @@ Base stats like max health, attack speed, damage, health regen, movement speed a
 
 Upgrades are in place: Pulsar(Laser beam), White dwarf(Small autonomous minion), Multinova(Shotgun), Seeker(Homin projectiles), Unstable plasma(Mines), Corona(Shield), Core(Max Health), Wormhole(Dash movement)
 
-Death screen with kill counter. Planned on adding upgrade and level up tracker to death screen but never did. Game restarts from start menu when continuing from death screen.
-
 Made a couple of enemies: Normal(Follows and shoots player), Heavy(Same as Normal but stronger), Mini Boss(Same as Heavy but stronger and shoots Multinova), Fast(Faster Normal enemy with faster atttack speed), Spinner(Heavy enemy with short laser beams shooting in 5 directions)
+
+Made a spawning system based on enemies spawning having a cost and every spawn interval the spawner "bought" enemies to spawn procedurally.
+
+Death screen with kill counter. Planned on adding upgrade and level up tracker to death screen but never did. Game restarts from start menu when continuing from death screen.
 
 Very fun project that i wished i had made time to turn into something more complete and polished.
